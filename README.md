@@ -12,7 +12,7 @@ Get instant, trustworthy answers to your health questions, personalized wellness
   Our assistant isn’t just smart — it’s empathetic, clear, and always on your side.
 - 🥗 **Personalized Wellness:**  
   From diet tips to lifestyle tweaks, get advice tailored just for you.
-- 💬 **Chat in Marathi or English:**  
+- 💬 **Chat in any Language:**  
   Health Saarthi speaks your language, literally!
 - 🎨 **Stunning, Modern UI:**  
   Enjoy a vibrant, mobile-first design with smooth animations and a calming green–blue palette.
@@ -48,7 +48,7 @@ Get instant, trustworthy answers to your health questions, personalized wellness
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/health-saarthi.git
+   git clone https://github.com/Shashankk1907/HealthSaarthi.git
    cd health-saarthi
    ```
 
@@ -121,7 +121,7 @@ For medical advice, diagnosis, or treatment, always consult a qualified healthca
 ## 📬 Let’s Connect!
 
 Questions, ideas, or just want to say hi?  
-Open an issue or email us at [your-email@example.com].
+Open an issue or email us at shashanksonawane7@gmail.com.
 
 ---
 
