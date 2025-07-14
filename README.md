@@ -1,4 +1,4 @@
-# 🚀 Health Saarthi – Your AI Wellness Companion 🇮🇳
+# Health Saarthi – Your AI Wellness Companion 🇮🇳🩺
 
 **Health Saarthi** is not just another chatbot.  
 It’s your friendly, AI-powered guide to better health, designed for the Marathi-speaking community and beyond!  
